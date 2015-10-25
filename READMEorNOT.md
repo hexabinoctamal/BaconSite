@@ -9,3 +9,5 @@ Because this was our first implementation of a site, we realized that the time a
 
 # Outcome Of This
 I realized this was a cool project in the end and we ended up learning a lot. We found out we are total noobs and will come back again to learn more.
+
+confirmed - bakerbran89
